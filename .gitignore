@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.DS_Store
+data/*
+!data/doclaynet_index.csv
+!data/ocr_echantillon.csv
