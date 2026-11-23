@@ -21,7 +21,7 @@ Les organisations qui traitent des dossiers (leasing, crédit, administration) r
 | Indexation des 8 057 pages et vérification de l'absence de fuite entre splits | fait |
 | Analyse exploratoire : quantité de texte par catégorie | fait |
 | Test de l'OCR (Tesseract) sur un échantillon | fait |
-| OCR de toutes les pages (`ocr_tous.py`) | **en cours** |
+| OCR de toutes les pages (`ocr_tous.py`) | fait |
 | Baseline TF-IDF + régression logistique | à faire |
 | Modèle image (CNN) | à faire |
 | Modèle multimodal | à faire |

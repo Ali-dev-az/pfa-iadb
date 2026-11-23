@@ -2,3 +2,4 @@ datasets<4
 pandas
 pillow
 pytesseract
+scikit-learn
